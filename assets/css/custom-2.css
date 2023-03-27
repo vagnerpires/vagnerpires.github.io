@@ -9,3 +9,5 @@ header.hero-bg > .container-overlay { background-image: linear-gradient(rgba(0,0
 
 .section-selector-1 { background-color: var(--trend-050) }
 .section-selector-1 h3{line-height: 1.5;}
+
+body {font-family: 'Inter', sans-serif;}
